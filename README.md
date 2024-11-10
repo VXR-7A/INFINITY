@@ -1,5 +1,5 @@
 
-<img width="100%" title="VXR-7A" alt="FREE FLOWER" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=VXR-7A&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
+<img width="100%" title="FREE FLOWER" alt="FREE FLOWER" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=VXR-7A&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
 <table border="0">
  <tr>
