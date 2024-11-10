@@ -49,8 +49,8 @@ git clone https://github.com/ZX-WORLDE/ZEROX
 cd ZEROX
 python Z-force.py
 ```
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
-___INFINITY FOLLOWER___</br>
 
 
 
@@ -65,5 +65,3 @@ ___INFINITY FOLLOWER___</br>
 © [2024-10] [VXR-7A]
 
 
-
-# INFINITY
