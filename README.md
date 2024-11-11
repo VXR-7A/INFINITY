@@ -13,6 +13,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C10&background=31FF9400&width=435&lines=MAKE+SURE+YOUR+ACCOUNT;PROFESSIONAL+MODE+IS+ON✅)](https://git.io/typing-svg)
 
 <img src="_more_/hom3.jpg"/>
 
