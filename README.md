@@ -20,22 +20,30 @@
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 
-<h2>RUN_COMMAND 🔰» </h2>
+<h2>INSTALL COMMAND 🔰» </h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C10&background=31FF9400&width=435&lines=THIS+TOOL+WORK+ONLY+FACEBOOK+PROFILE+FOLLOW;FACEBOOK+PAGE+FOLLOW+NOT+WORKING;FREE+UNLIMITED+BANGLADESHI+🇧🇩+FOLLOW+⚡)](https://git.io/typing-svg)
 
 ```
 pkg update && pkg upgrade -y
 pkg install git
-pkg install python -y
+pkg install ruby -y
 cd $HOME
-rm -rf ZEROX
-git clone https://github.com/ZX-WORLDE/ZEROX
-cd ZEROX
-python Z-force.py
+rm -rf INFINITY
+git clone https://github.com/VXR-7A/INFINITY
+cd INFINITY
+ruby run.rb
 ```
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
+<h2>RUN_COMMAND 🔰» </h2>
+
+```
+cd INFINITY
+ruby run.rb
+```
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 
 
