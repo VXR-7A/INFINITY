@@ -42,6 +42,14 @@ ruby run.rb
 cd INFINITY
 ruby run.rb
 ```
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+<p align="left">
+  <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/VXR-7A/INFINITY&tutorial=README.md" target="_blank">
+    <img src="https://gstatic.com/cloudssh/images/open-btn.svg">
+  </a>
+</p>
+
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
